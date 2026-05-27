@@ -1,11 +1,11 @@
 # Hi, I'm Vinay Shanker 👋
 
-### Backend Engineer | Distributed Systems | Java · Spring Boot · Kafka · Redis
+### Full Stack Developer | Backend Engineer | Distributed Systems | Java · Spring Boot · Kafka · Redis
 
 ---
 
 ## 💫 About Me
-* 🎓 **Academic Profile**: Final year Information Science & Engineering (ISE) student at **Jain University, Bangalore** (Graduating 2025).
+* 🎓 **Academic Profile**: Final year Information Science & Engineering (ISE) student at **Jain University, Bangalore** (Graduating 2027).
 * 📜 **Patent Co-Inventor**: Co-invented and filed a patent for **Solo Tutor** (AI-powered multimodal RAG learning platform utilizing pgvector and Supabase).
 * ⚙️ **Distributed Systems**: Passionate about building production-grade, fault-tolerant, high-throughput backend services and microservices independently.
 * 🚀 **Carrier Target**: Open to **SDE Internships** and **Full-Time SDE/Backend SDE roles** 
