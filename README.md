@@ -89,4 +89,4 @@
 ### 📫 Contact & Connect
 * **Email**: [vinaymuddhe@gmail.com](mailto:vinaymuddhe@gmail.com)
 * **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/vinay-shanker-m-a7732a265/)
-* **Portfolio**: [vinayshanker.live](http://vinayshanker.live)
+* **Portfolio**: [vinayshanker.live](https://portfolio-vinay-shanker.vercel.app/)
