@@ -34,58 +34,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
----
-
-## 🏗️ Showcase Projects
-
-### 1. Distributed Rate Limiter & API Gateway 🛡️
-> **High-throughput API Gateway with Token Bucket rate limiting using reactive architectures.**
-* **Stack**: Java 21, Spring Boot, Spring WebFlux (Reactive), Redis, Lua, Docker, GitHub Actions.
-* **Key Features**:
-  * Atomicity guaranteed using single-threaded **Redis Lua scripts** to perform check-and-refill pipelines without distributed locks.
-  * Extensively load-tested to **10,000+ concurrent requests** with sub-millisecond calculation overhead.
-  * Implemented responsive `X-RateLimit-Remaining` headers and structured application configs.
-* **Source Code**: [Distributed-Rate-Limiter-API-Gateway](https://github.com/vinayshanker9/Distributed-Rate-Limiter-API-Gateway)
-
----
-
-### 2. Event-Driven E-Commerce Order Engine 🛒
-> **Fault-tolerant microservices engine using the Saga Pattern for orchestration.**
-* **Stack**: Java 21, Spring Boot, Apache Kafka, PostgreSQL, MongoDB, Zipkin, Kubernetes, Gradle.
-* **Key Features**:
-  * Robust transaction isolation using **Saga Pattern Orchestration** with compensate events for failed orders.
-  * Multi-topic event coordination (OrderCreated, InventoryReserved, PaymentCaptured, CompensateEvent) using **Kafka**.
-  * Distributed tracing via **Zipkin** and deployment-ready manifests inside **Kubernetes**.
-* **Source Code**: [Event-Driven-E-Commerce-Order-Engine](https://github.com/vinayshanker9/Event-Driven-E-Commerce-Order-Engine)
-
----
-
-### 3. Solo Tutor — AI Learning Platform 🎓
-> **Patent-pending multimodal AI learning platform with grounded RAG query mechanics.**
-* **Stack**: Python 3.11, FastAPI, React (Vite), Supabase, `pgvector`, OpenAI Whisper, Docker.
-* **Key Features**:
-  * Patent filing co-inventor (Jain University, Bangalore, 2024).
-  * **Multimodal RAG Ingest** over documents and YouTube video transcripts via custom `pgvector` similarity functions.
-  * Automatic MCQ generation from chunk context models utilizing structured JSON Pydantic models.
-  * **Whisper Audio Fallback** which transcribes video streams when captions are unavailable.
-* **Source Code**: [Solo-Tutor](https://github.com/vinayshanker9/Solo-Tutor)
-
----
-
-## 📈 GitHub Statistics & Coding Profiles
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinayshanker9&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayshanker9&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-### 🧠 Coding Credentials
-* 🏆 **LeetCode**: [Leetcode Profile](https://leetcode.com/u/vinaymuddhe/) 
-  <img src="https://img.shields.io/badge/LeetCode-Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="Leetcode Badges" />
-* 💻 **Currently**: Solving DSA | Building in public | Open to career-boosting opportunities!
-
----
-
 ### 📫 Contact & Connect
 * **Email**: [vinaymuddhe@gmail.com](mailto:vinaymuddhe@gmail.com)
 * **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/vinay-shanker-m-a7732a265/)
