@@ -1,6 +1,6 @@
 # Hi, I'm Vinay Shanker 👋
 
-### Full Stack Developer | Backend Engineer 
+### Software Engineer
 
 ---
 
